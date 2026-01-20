@@ -6,15 +6,15 @@ This script constructs a ZIP code to congressional district mapping using offici
 
 ---
 
-## Data Sources (E
+## Data Sources (https://www2.census.gov/geo/tiger)
 
 ### 1. ZIP Code Tabulation Areas (ZCTAs) from U.S. Census Bureau TIGER/Line at 
 
-* **Example File**: `tl_2020_us_zcta520.shp`
+* **Example File**: `tl_2018_us_zcta510.shp`
 
 ### 2. Congressional District Boundaries
 
-* **Example File**: `tl_2021_us_cd116.shp`
+* **Example File**: `tl_2018_us_cd116.shp`
 
 ---
 
