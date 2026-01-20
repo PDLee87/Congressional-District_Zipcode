@@ -45,7 +45,7 @@ This script constructs a ZIP code to congressional district mapping using offici
 **Filename**
 
 ```
-1.1. us_zip_districts_2021_117th.xlsx
+us_zip_districts_2018_116th.xlsx
 ```
 
 **Columns**
